@@ -121,8 +121,7 @@ Contour offset path slicing involves printing the outer boundary of a layer firs
 Grid path slicing follows a grid-like pattern, where each layer is printed in a back-and-forth motion in one direction, followed by a shift in the perpendicular direction. This method is often used for infill patterns to provide strength and stability to the part. The choice of slicing method depends on factors such as desired surface finish, print time, strength requirements, and the geometry of the part being printed.
 
 ## Output:
-![rajesh](lab7_EMPD.png)
-
+![lab7_EMPD](https://github.com/Rajeshanbu/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118924713/0c002922-9dce-48b9-8874-7d43ebc5438a)
 
 ### Name:RAJESH.A
 ### Register Number:212222100042
