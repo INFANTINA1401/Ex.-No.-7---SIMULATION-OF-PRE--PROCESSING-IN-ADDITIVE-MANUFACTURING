@@ -1,5 +1,5 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE:30/05/2023
+### DATE:
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -123,8 +123,8 @@ Grid path slicing follows a grid-like pattern, where each layer is printed in a 
 ## Output:
 ![lab7_EMPD](https://github.com/Rajeshanbu/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118924713/0c002922-9dce-48b9-8874-7d43ebc5438a)
 
-### Name:RAJESH.A
-### Register Number:212222100042
+### Name:INFANTINA MARIA L
+### Register Number:212223100013
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
